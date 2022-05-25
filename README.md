@@ -26,7 +26,10 @@ In my spare time I like to:
  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ellis@rentr.me)
 <a href="https://instagram.com/ellis">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+ </a>
+ <a href="(https://keybase.io/ellis21)">
+<img src="https://img.shields.io/keybase/pgp/ellis21?style=for-the-badge" />
 
 </a>
 
