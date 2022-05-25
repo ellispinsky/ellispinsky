@@ -2,7 +2,7 @@
 
 ## ✨ About Me ✨
 <p align="left"> 
-I am a 20 y/o Computer Science + Economics student in NYC. I am a perpetual learner and an aspiring polymath.
+I am a 20 y/o Computer Science + Economics student in NYC. I am a perpetual learner and an aspiring polymath. 
 
 
 <p/>
@@ -16,6 +16,8 @@ In my spare time I like to:
 -Travel  
 -Learn languages: I currently speak :ru: , :es: , :us: , :it:
 
+**:rocket: I am currently working on:**  
+[Rentr](https://www.Rentr.me) a P2P rental platform.
 
 <p align="left"> 
 
