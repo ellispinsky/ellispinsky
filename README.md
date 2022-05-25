@@ -16,11 +16,13 @@ In my spare time I like to:
 -Travel  
 -Learn languages: I currently speak :ru: , :es: , :us: , :it:
 
+
 <p align="left"> 
 
+ 
 **📫 Contact me:**
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ellis@rentr.me)
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /><a href="https://www.instagram.com/ellis/">
+<a href="https://instagram.com/ellis"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 #
 **🔭 Languages, Frameworks and Tools**
 <p align="left">
