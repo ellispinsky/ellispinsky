@@ -13,7 +13,7 @@ In my spare time I like to:
 -Workout :muscle:  
 -Train Brazilian Jiu Jitsu   
 -[Read :books:](https://www.goodreads.com/user/show/135181819-ellis) (Perhaps a bit too much)  
--Travel  
+-Travel: 20 countries and counting
 -Learn languages: I currently speak :ru: , :es: , :us: , :it:
 
 **:rocket: I am currently working on:**  
