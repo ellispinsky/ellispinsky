@@ -2,7 +2,7 @@
 
 ## ✨ About Me ✨
 <p align="left"> 
-I am a 20 y/o Computer Science + Philosophy student in NYC. I am a perpetual learner and an aspiring polymath. 
+I am a 20 y/o Computer Science + Philosophy student in NYC. I have a passion for learning and constantly improving. 
 
 
 <p/>
