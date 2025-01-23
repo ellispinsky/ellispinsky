@@ -2,7 +2,7 @@
 
 ## ✨ About Me ✨
 <p align="left"> 
-I am a 21 y/o Computer Science + Philosophy student in NYC. I have a passion for learning and constantly improving. 
+I am a 22 y/o Computer Science + Philosophy student in NYC. I have a passion for learning and constantly improving. 
 
 
 <p/>
