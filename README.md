@@ -2,7 +2,7 @@
 
 ## ✨ About Me ✨
 <p align="left"> 
-I am a 22 y/o Computer Science + Philosophy student in NYC. I have a passion for learning and constantly improving. 
+I am a 23 y/o founder and builder in NYC. I have a passion for learning and constantly improving. 
 
 
 <p/>
@@ -17,7 +17,7 @@ In my spare time I like to:
 -Learn languages: I currently speak :ru: , :es: , :us: , :it:
 
 **:rocket: I am currently working on:**  
-[Rentr](https://www.Rentr.me) a P2P rental platform.
+[Terms](https://www.Terms.so) a docusign alternative.
 
 <p align="left"> 
 
